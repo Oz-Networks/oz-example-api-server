@@ -1,0 +1,16 @@
+{
+  "name": "oz-example-api-server",
+  "version": "1.0.0",
+  "description": "Example API server for getting data from OzNetwork subscription",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mochzilla",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
